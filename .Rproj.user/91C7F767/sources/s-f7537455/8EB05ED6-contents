@@ -8,4 +8,5 @@ git pull git@github.com:richherr/datascience.git master
 git push --set-upstream origin master
 git push -u origin master
 git push
+git pull
 
