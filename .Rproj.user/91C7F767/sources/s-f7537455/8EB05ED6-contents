@@ -1,0 +1,11 @@
+# Github token
+# c8404c527402c19b00deb41979bf368588e36d1f
+
+# Copy from Github "Clone or Download" field:  "git@...etc"
+git init
+git remote add origin git@github.com:richherr/datascience.git
+git pull git@github.com:richherr/datascience.git master
+git push --set-upstream origin master
+git push -u origin master
+git push
+
