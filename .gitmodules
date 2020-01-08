@@ -2,7 +2,3 @@
 	path = datascience
 	url = git@github.com:richherr/datascience.git
 	branch = master
-[submodule "public."]
-	path = public.
-	url = git@github.com:richherr/richherr.github.io.git
-	branch = master
