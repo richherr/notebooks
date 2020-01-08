@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2392203289",
+    "hash" : "0",
     "id" : "BEAE4C03",
-    "lastKnownWriteTime" : 1578463836,
-    "last_content_update" : 1578463836083,
+    "lastKnownWriteTime" : 1578465390,
+    "last_content_update" : 1578465390,
     "path" : "~/datascience/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "0,37",
+        "cursorPosition" : "0,13",
         "scrollLine" : "0"
     },
     "read_only" : false,
