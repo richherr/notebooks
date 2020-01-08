@@ -10,7 +10,14 @@ git push -u origin master
 git push
 git pull
 
-git submodule add -b master git@github.com:richherr/datascience.git
-git submodule add -b master git@github.com:richherr/richherr.github.io.git public
+# Add webpage to repository using "submodules"
+git submodule add -b master git@github.com:richherr/datascience.git public 
+
+# R blogdown server locally
+library(blogdown)
+serve_site()
+servr::daemon_stop(1)
+
+new_post_addin()
 
 

@@ -6,7 +6,7 @@
     <description>Recent content on Consider Phlebas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jan 2018 21:57:07 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -45,6 +45,15 @@
       
       <guid>/characters/kraiklyn/</guid>
       <description>Kraiklyn is the captain of the Clear Air Turbulence.</description>
+    </item>
+    
+    <item>
+      <title>New Post Test</title>
+      <link>/post/new-post-test/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/new-post-test/</guid>
+      <description></description>
     </item>
     
     <item>
