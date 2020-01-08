@@ -8,3 +8,10 @@ tags: []
 anchor: 2020-01-08-new-post-2
 weight: ~
 ---
+
+#
+
+```{r}
+hist(rnorm(100))
+```
+
