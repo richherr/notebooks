@@ -10,3 +10,7 @@ git push -u origin master
 git push
 git pull
 
+git submodule add -b master git@github.com:richherr/datascience.git
+git submodule add -b master git@github.com:richherr/richherr.github.io.git public
+
+
