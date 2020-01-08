@@ -12,8 +12,13 @@
     "path" : "~/github_token.txt",
     "project_path" : null,
     "properties" : {
+<<<<<<< HEAD
         "cursorPosition" : "6,0",
         "scrollLine" : "4"
+=======
+        "cursorPosition" : "18,0",
+        "scrollLine" : "11"
+>>>>>>> f65aaf335439e4e171d1068c5524cf0c69df7843
     },
     "read_only" : false,
     "read_only_alternatives" : [
