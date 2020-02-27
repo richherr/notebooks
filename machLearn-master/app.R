@@ -1,6 +1,5 @@
 source('init.R',local = T)
 
-
 # Server ------------------------------------------------------------------
 
 server <- function(input, output,session) {
