@@ -726,5 +726,4 @@ ui <- bootstrapPage(useShinyjs(),
                         h2(HTML('<i class="fa fa-cog fa-spin fa-2x"></i>'))
                     )
 )
-
 shinyApp(ui, server)
