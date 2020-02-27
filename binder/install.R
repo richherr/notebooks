@@ -1,3 +1,4 @@
+options(repos=structure(c(CRAN="https://cran.cnr.berkeley.edu/")))
 install.packages("tidyverse")
 install.packages("rmarkdown")
 install.packages("httr")
