@@ -34,7 +34,6 @@ require(MLmetrics)
 require(Cubist)
 require(testthat)
 
-
 data(meuse)
 
 dmnds <- diamonds#[sample(1:nrow(diamonds),1e3),]
