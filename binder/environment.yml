@@ -3,6 +3,7 @@ channels:
   - pypi
   - pipi
   - conda-forge
+  - conda
   - defaults
 dependencies:
   - python                        3.6.9
