@@ -19,3 +19,8 @@ install.packages("bitops", repos='https://cran.us.r-project.org')
 install.packages("rprojroot", repos='https://cran.us.r-project.org')
 install.packages("np", repos='https://cran.us.r-project.org')
 install.packages("boot", repos='https://cran.us.r-project.org')
+install.packages("learnr", repos='https://cran.us.r-project.org')
+install.packages("here", repos='https://cran.us.r-project.org')
+ctv::install.views("Econometrics")
+ctv::install.views("MachineLearning")
+
