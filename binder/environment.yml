@@ -1,6 +1,9 @@
 name: example-environment
 channels:
+  - PyPi
+  - PiPi
   - conda-forge
+  - defaults
 dependencies:
   - absl-py                       0.10.0         
   - alabaster                     0.7.12         
