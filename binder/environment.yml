@@ -1,10 +1,6 @@
 name: example-environment
 channels:
-  - PyPi
-  - PiPi
   - conda-forge
-  - conda
-  - defaults
 dependencies:
   - python                          3.8.0
   - pip
