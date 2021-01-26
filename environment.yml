@@ -5,26 +5,13 @@ channels:
   - pytorch
   - pypi
 dependencies:
-  - r-base=3.6
+  - r-base=4
   - r-essentials
   - r-tensorflow
   - r-keras
   - r-boot
   - r-caret
   - r-learnr
-  - r-mlr3
-  - r-mlr3misc
-  - r-mlrlearners
-  - r-mlrpipelines
-  - r-mlrtuning
-  - r-mlrmeasures
-  - r-mlrtuning
-  - r-mlrfilters
-  - r-mlrdata
-  - r-mlrverse
-  - r-mlrviz
-  - r-mlrkeras
-  - r-mlr
   - r-superlearner
   - r-caret
   - python                          
