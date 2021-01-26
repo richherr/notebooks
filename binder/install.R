@@ -21,6 +21,7 @@ install.packages("np", repos="https://cran.microsoft.com/snapshot/2020-10-10/")
 install.packages("boot", repos="https://cran.microsoft.com/snapshot/2020-10-10/")
 install.packages("learnr", repos="https://cran.microsoft.com/snapshot/2020-10-10/")
 install.packages("here", repos="https://cran.microsoft.com/snapshot/2020-10-10/")
-ctv::install.views("Econometrics", repos="https://cran.microsoft.com/snapshot/2020-10-10/")
-ctv::install.views("MachineLearning", repos="https://cran.microsoft.com/snapshot/2020-10-10/")
+install.packages("ctv", repos="https://cloud.r-project.org/")
+ctv::install.views("MachineLearning")
+
 
