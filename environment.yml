@@ -1,6 +1,7 @@
 name: example-environment
 channels:
   - conda-forge
+  - conda
 dependencies:
   - r-base=4
   - r-tidyverse
