@@ -66,7 +66,6 @@ dependencies:
   - r-rattle
   - r-Rborist
   - r-rdetools
-  - r-relaxo
   - r-ROCR
   - r-RoughSets
   - r-rpart
