@@ -1,5 +1,5 @@
 #! /bin/bash
-sudo R --vanilla <<EOF
+sudo -S R --vanilla <<EOF
 install.packages('evtree', repos='http://cran.us.r-project.org')
 q()
 EOF
