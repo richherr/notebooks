@@ -1,3 +1,1 @@
 #! /bin/bash
-R BATCH CMD ./install_packages.R
-R BATCH CMD ./install.R
