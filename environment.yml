@@ -78,7 +78,6 @@ dependencies:
   - r-RPMM
   - r-RSNNS
   - r-RWeka
-  - r-RXshrink
   - r-sda
   - r-stabs
   - r-SuperLearner
