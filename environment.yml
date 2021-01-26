@@ -6,6 +6,8 @@ channels:
 dependencies:
   - r-base=4
   - r-tidyverse
+  - r-boot
+  - r-caret
   - python                          
   - pip
   - pandas-profiling
