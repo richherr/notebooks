@@ -49,4 +49,3 @@ dependencies:
   - oauth2client                  
   - oauthlib      
   - pytorch
-  - pytorch-modules
