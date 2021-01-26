@@ -67,7 +67,6 @@ dependencies:
   - r-Rborist
   - r-rdetools
   - r-relaxo
-  - r-rgenoud
   - r-ROCR
   - r-RoughSets
   - r-rpart
