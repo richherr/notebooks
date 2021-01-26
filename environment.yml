@@ -58,7 +58,6 @@ dependencies:
   - r-partykit
   - r-pdp
   - r-penalized
-  - r-picasso
   - r-plotmo
   - r-randomForest
   - r-randomForestSRC
