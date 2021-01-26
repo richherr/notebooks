@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - conda
   - pytorch
+  - pypi
 dependencies:
   - r-base=4
   - r-tidyverse
