@@ -12,6 +12,9 @@ dependencies:
   - r-boot
   - r-caret
   - r-learnr
+  - r-rstan
+  - r-brms
+  - r-mlr
   - r-superlearner
   - r-caret
   - python                          
