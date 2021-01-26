@@ -10,6 +10,22 @@ dependencies:
   - r-keras
   - r-boot
   - r-caret
+  - r-learnr
+  - r-mlr3
+  - r-mlr3misc
+  - r-mlrlearners
+  - r-mlrpipelines
+  - r-mlrtuning
+  - r-mlrmeasures
+  - r-mlrtuning
+  - r-mlrfilters
+  - r-mlrdata
+  - r-mlrverse
+  - r-mlrviz
+  - r-mlrkeras
+  - r-mlr
+  - r-superlearner
+  - r-caret
   - python                          
   - pip
   - pandas-profiling
