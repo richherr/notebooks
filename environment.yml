@@ -49,3 +49,5 @@ dependencies:
   - numpy                         
   - oauth2client                  
   - oauthlib      
+  - pytorch
+  - pytorch-modules
