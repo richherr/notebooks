@@ -70,7 +70,6 @@ dependencies:
   - r-relaxo
   - r-rgenoud
   - r-RGF
-  - r-RLT
   - r-ROCR
   - r-RoughSets
   - r-rpart
