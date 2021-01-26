@@ -71,7 +71,6 @@ dependencies:
   - r-rgenoud
   - r-RGF
   - r-RLT
-  - r-Rmalschains
   - r-ROCR
   - r-RoughSets
   - r-rpart
