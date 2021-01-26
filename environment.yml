@@ -26,7 +26,6 @@ dependencies:
   - r-earth
   - r-effects
   - r-elasticnet
-  - r-evclass
   - r-frbs
   - r-gamboostLSS
   - r-gbm 
@@ -69,7 +68,6 @@ dependencies:
   - r-rdetools
   - r-relaxo
   - r-rgenoud
-  - r-RGF
   - r-ROCR
   - r-RoughSets
   - r-rpart
