@@ -1,10 +1,11 @@
 name: notebooks
 channels:
   - conda-forge
+  - conda 
   - pytorch
   - pypi
 dependencies:
-  - r-base=3.6.3
+  - r-base=3.6
   - r-essentials
   - r-tensorflow
   - r-keras
