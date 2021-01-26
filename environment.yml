@@ -86,7 +86,7 @@ dependencies:
   - r-rminer
   - r-ROCR
   - r-RoughSets
-  - r-rpart (core)
+  - r-rpart
   - r-RPMM
   - r-RSNNS
   - r-RWeka
