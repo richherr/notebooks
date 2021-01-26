@@ -1,3 +1,5 @@
 #! /bin/bash
 wget https://cran.r-project.org/src/contrib/evtree_1.0-8.tar.gz
 R CMD INSTALL evtree_1.0-8.tar.gz
+wget https://cran.r-project.org/src/contrib/wsrf_1.7.17.tar.gz
+R CMD INSTALL evtree_1.0-8.tar.gz

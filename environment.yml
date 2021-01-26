@@ -85,7 +85,6 @@ dependencies:
   - r-tensorflow
   - r-tree
   - r-varSelRF
-  - r-wsrf
   - r-xgboost
   - r-mlr
   - r-tidyverse
