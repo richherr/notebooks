@@ -1,7 +1,8 @@
-name: example-environment
+name: notebooks
 channels:
   - conda-forge
   - conda
+  - pytorch
 dependencies:
   - r-base=4
   - r-tidyverse
