@@ -4,7 +4,7 @@ channels:
 dependencies:
   - r-base=4
   - r-tidyverse
-  - python                          3.8.0
+  - python                          
   - pip
   - pandas-profiling
   - rpy2                          
