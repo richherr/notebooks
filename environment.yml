@@ -5,6 +5,9 @@ channels:
   - pypi
 dependencies:
   - r-base=4
+  - r-essentials
+  - r-machinelearning
+  - r-mlr
   - r-tidyverse
   - r-boot
   - r-caret
