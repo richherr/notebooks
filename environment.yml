@@ -1,7 +1,6 @@
 name: notebooks
 channels:
   - conda-forge
-  - conda
   - pytorch
   - pypi
 dependencies:
