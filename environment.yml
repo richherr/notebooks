@@ -20,7 +20,7 @@ dependencies:
   - python                          
   - pip
   - pandas-profiling
-  - rpy2                          
+  - rpy2==3.2.7                          
   - rsa                           
   - scikit-image                  
   - scikit-learn 
@@ -43,10 +43,13 @@ dependencies:
   - Keras                         
   - Keras-Preprocessing           
   - matplotlib                    
-  - matplotlib-venn           
+  - matplotlib-venn
+  - plotly
+  - pycountry
   - scipy                         
   - scs                           
-  - seaborn       
+  - seaborn
+  - statsmodels==0.12.1
   - nbconvert                     
   - nbformat                      
   - nest-asyncio                  
