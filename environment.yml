@@ -20,7 +20,7 @@ dependencies:
   - python                          
   - pip
   - pandas-profiling
-  - rpy2==3.2.7                          
+  - rpy2                         
   - rsa                           
   - scikit-image                  
   - scikit-learn 
