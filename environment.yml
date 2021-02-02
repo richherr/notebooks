@@ -17,6 +17,7 @@ dependencies:
   - r-mlr
   - r-superlearner
   - r-caret
+  - libgcc
   - python                          
   - pip
   - pandas-profiling
