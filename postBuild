@@ -1,3 +1,2 @@
 #!/bin/bash
 Rscript ./install.R
-echo "rsession-ld-library-path=/lib/x86_64-linux-gnu" >> /etc/rstudio/rsession.conf
