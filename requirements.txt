@@ -41,8 +41,6 @@ coverage
 coveralls                     
 crcmod                        
 cufflinks                     
-cvxopt                        
-cvxpy                         
 cycler                        
 cymem                         
 Cython                        
