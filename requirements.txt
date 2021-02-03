@@ -81,7 +81,6 @@ flatbuffers
 folium                        
 future                        
 gast                          
-GDAL                          
 gdown                         
 gensim                        
 geographiclib                 
