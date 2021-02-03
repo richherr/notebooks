@@ -51,7 +51,6 @@ dependencies:
   - notebook                      
   - numba                         
   - numexpr                       
-  - numpy                         
   - oauth2client                  
   - oauthlib      
   - pytorch

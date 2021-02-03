@@ -188,7 +188,8 @@ msgpack
 multiprocess                  
 multitasking                  
 murmurhash                    
-music21                       
+music21
+numpy
 natsort                       
 nbclient                      
 okgrade                       
