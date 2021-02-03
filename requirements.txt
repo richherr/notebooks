@@ -189,7 +189,7 @@ multiprocess
 multitasking                  
 murmurhash                    
 music21
-numpy
+numpy==1.14.5
 natsort                       
 nbclient                      
 okgrade                       
