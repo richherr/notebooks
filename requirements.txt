@@ -63,7 +63,6 @@ earthengine-api
 easydict                      
 ecos                          
 editdistance                  
-en-core-web-sm                
 entrypoints                   
 ephem                         
 et-xmlfile                    
